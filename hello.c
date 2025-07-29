@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main (){
-    printf("hell joyeta welcome to our world");
+    printf("nothing is here");
     return 0;
 }
